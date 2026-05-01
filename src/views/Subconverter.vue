@@ -359,6 +359,7 @@ export default {
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
           { value: "https://api.v1.mk" },
+          { value: ""https://sub.ethan.us.kg" },
         ],
         remoteConfig: [
           {
